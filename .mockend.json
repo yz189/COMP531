@@ -12,7 +12,9 @@
     }  
   },
   "Login": {  
-    "username": { "string": {} },
-    "password": { "string": {} },
+    "user": {
+        "username": "yz189",
+        "password": "yz189",
+    }
   }
 }
