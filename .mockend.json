@@ -12,9 +12,8 @@
     }  
   },
   "Login": {  
-    "user": {
-        "username": "yz189",
-        "password": "yz189"
+        "username": { "string": {} },
+        "password": { "string": {} }
     }
   }
 }
