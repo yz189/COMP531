@@ -1,9 +1,9 @@
 {
   "Login": {  
     "username": { 
-      "string": [
+      "string": {
         "yz189"
-      ] 
+      }
     },
     "password": { 
       "string": [
