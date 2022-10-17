@@ -12,9 +12,15 @@
      }
   },
   "Head": {
-     "headlines": {
-        "headlines": {"string": ["ok"]},
-        "username": {"string": ["yz189"]}
+     "healines": { 
+      "string": [
+        "ok"
+      ] 
+    },
+    "username": { 
+      "string": [
+        "yz189"
+      ]
      }
   }
 }
