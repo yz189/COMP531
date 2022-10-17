@@ -12,7 +12,17 @@
     }  
   },
   "Login": {  
-        "username": { "string": {} },
-        "password": { "string": {} }
+    "username": { 
+      "string": [
+        "Thor",
+        "Loki"
+      ] 
+    },
+    "password": { 
+      "string": [
+        "Thor",
+        "Loki"
+        ] 
+     }
   }
 }
