@@ -14,7 +14,7 @@
      }
   },
   "Head": {
-     "asd": { "string": {} }, 
+     "headlines": { "string": {} }, 
      "username": { "string": {} }
   }
 }
