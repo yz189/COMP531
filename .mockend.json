@@ -28,4 +28,5 @@
   "Headlines":{
      "headlines": { "string": {} }, 
      "username": { "string": {} }
+  }
 }
