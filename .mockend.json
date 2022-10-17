@@ -2,21 +2,19 @@
   "Login": {  
     "username": { 
       "string": [
-        "Thor",
-        "Loki"
+        "yz189",
       ] 
     },
     "password": { 
       "string": [
-        "123",
-        "456"
+        "123"
         ] 
      }
   },
   "Head": {
      "headlines": {
-        "headlines": "ok",
-        "username": "yz189"
+        "headlines": {"string": {"ok"}},
+        "username": {"string": {"yz189"}}
      }
   }
 }
