@@ -1,20 +1,20 @@
 {
   "Login": {  
     "username": { 
-      "string": {
+      "string": [
         "yz189"
-      } 
+      ] 
     },
     "password": { 
-      "string": {
+      "string": [
         "123"
-      }
+      ]
      }
   },
   "Head": {
      "headlines": {
-        "headlines": {"string": {"ok"}},
-        "username": {"string": {"yz189"}}
+        "headlines": {"string": ["ok"]},
+        "username": {"string": ["yz189"]}
      }
   }
 }
