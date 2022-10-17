@@ -31,5 +31,5 @@
     }},
   "Zipcode": {"int": { "min": 10000, "max": 99999 } },
   "Avatars": {"regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"},
-  "Emails": {"regexp": "[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}" } }
+  "Emails": {"regexp": "[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}" }
 }
