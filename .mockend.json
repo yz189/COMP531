@@ -14,7 +14,11 @@
      }
   },
   "Head": {
-     "headlines": { "string": {} }, 
-     "username": { "string": {} }
+     "headlines": [
+       {
+        "headlines": "ok",
+        "username": "yz189"
+       }
+     ]
   }
 }
