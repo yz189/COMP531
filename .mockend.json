@@ -23,8 +23,8 @@
       ]
      }
   },
-  "Articles": {  
-    "articles": { 
+  "Article": {  
+    "article": { 
       "string": {}
     }
   },
