@@ -23,10 +23,13 @@
       ]
      }
   },
-  "Articles": {},
-  "Following": {},
-  "Dob": {},
-  "Zipcode": {},
-  "Avatars": {},
-  "Emails": {}
+  "Articles": {"string": {} },
+  "Following": {"string": {} },
+  "Dob": {"dateTime": {
+      "min": "2010-01-01T00:00:00Z",
+      "max": "2020-12-31T23:59:59Z"
+    }},
+  "Zipcode": {"int": { "min": 10000, "max": 99999 } }},
+  "Avatars": {"regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"},
+  "Emails": {"regexp": "[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}" } }
 }
