@@ -14,11 +14,9 @@
      }
   },
   "Head": {
-     "headlines": [
-       {
+     "headlines": {
         "headlines": "ok",
         "username": "yz189"
-       }
-     ]
+     }
   }
 }
