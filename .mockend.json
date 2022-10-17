@@ -20,8 +20,8 @@
     },
     "password": { 
       "string": [
-        "Thor",
-        "Loki"
+        "123",
+        "456"
         ] 
      }
   }
