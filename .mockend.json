@@ -1,14 +1,14 @@
 {
   "Login": {  
     "username": { 
-      "string": [
+      "string": {
         "yz189"
-      ] 
+      } 
     },
     "password": { 
-      "string": [
+      "string": {
         "123"
-        ] 
+      }
      }
   },
   "Head": {
