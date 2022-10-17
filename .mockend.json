@@ -24,5 +24,8 @@
         "456"
         ] 
      }
-  }
+  },
+  "Headlines":{
+     "headlines": { "string": {} }, 
+     "username": { "string": {} }
 }
